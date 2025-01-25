@@ -8,3 +8,4 @@ accelerate
 llmspec
 falcon
 uvicorn
+abacusai>=1.0.0
